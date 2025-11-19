@@ -1,0 +1,16 @@
+html
+
+body {
+    margin : 0;
+    padding : 0;
+}
+
+footer {
+    background-color: rgb(23, 23, 23);
+    color: white;
+    text-align: center;
+    &> p {
+        padding: 10px;
+        margin: 0;
+    }
+}
