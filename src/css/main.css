@@ -22,3 +22,13 @@ footer > p {
     margin-right: 20px;
     background-color: lightgray;
 }
+
+.button__CTA {
+    background-color: orange;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
