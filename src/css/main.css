@@ -23,6 +23,15 @@ footer > p {
     background-color: lightgray;
 }
 
+.footer__nav{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.footer__nav>a{
+    color: white;
+    text-decoration: none;
 .button__CTA {
     background-color: orange;
     color: white;
