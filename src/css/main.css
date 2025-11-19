@@ -28,10 +28,11 @@ footer > p {
     justify-content: space-around;
 }
 
-
 .footer__nav>a{
     color: white;
     text-decoration: none;
+}
+
 .button__CTA {
     background-color: orange;
     color: white;
